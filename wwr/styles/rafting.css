@@ -1,0 +1,21 @@
+:root {
+   
+    --primary-color: #A9D2D5;
+    --secondary-color: #A288A6;
+    --accent1-color: #5C7457;
+    --accent2-color: #2D3047;
+
+    --heading-font: Palatino, Georgia, serif;
+    --paragraph-font: "Trebuchet MS", Arial, sans-serif;
+
+    --headline-color-on-white: #A9D2D5; 
+    --headline-color-on-color: white; 
+    --paragraph-color-on-white: #A9D2D5; 
+    --paragraph-color-on-color: white; 
+    --paragraph-background-color: #A9D2D5;
+    --nav-link-color: #A9D2D5;
+    --nav-background-color: #A288A6;
+a{
+    text-decoration: none;
+}
+}
