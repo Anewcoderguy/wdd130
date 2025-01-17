@@ -1,0 +1,27 @@
+/* This line sets the styling for all nav elements */
+nav {
+    background-color: darkblue;
+    padding: 10px;
+}
+/* This line sets the styling for all anchor tags in the linked HTML file */
+nav a {
+    color:white;
+    display: block;
+    padding: 20px;
+}
+/* This line styles all the h1 elements */
+h1 {
+    color: darkblue;
+}
+/* This line references all of the img elements */
+img {
+    width: 150px;
+    height: auto;
+    border: 1px solid black;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
+}
+/* This line references all paragraph elements */
+p {
+    padding: 10px;
+}
